@@ -1,0 +1,49 @@
+body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+}
+
+.form-control:focus {
+    border-color: #09f214f0;
+    box-shadow: none;
+}
+
+.submit-btn .btn {
+    border: 1px solid #09f214f0;
+    color: #09f214f0;
+}
+
+h1 {
+    font-size: 40px;
+    color: #09f214f0;
+}
+
+
+.submit-btn .btn:hover {
+    background-color: #09f214f0;
+    color: white;
+}
+
+.account-question a:hover {
+    text-decoration: underline !important;
+}
+
+.noAccount {
+    color: #09f214f0;
+}
+
+.boxShadow {
+    box-shadow: 10px 10px 30px 8px rgba(0, 0, 0, 0.8);
+}
+
+.home-content p {
+    font-size: 40px;
+    font-weight: 500;
+    color: #00977b;
+}
+
+
+
+.smartLogin {
+    cursor: pointer;
+}
